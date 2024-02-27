@@ -1,7 +1,7 @@
 # Gossip Protocol
 
 # Team Members:
-This project is completed by Smridhi Bhat, UFID: 26010147 and Anuj Singh Koli, UFID: 97977572 
+This project is completed by Smridhi Bhat and Anuj Singh Koli
 
 COP5615: Project 2
 
